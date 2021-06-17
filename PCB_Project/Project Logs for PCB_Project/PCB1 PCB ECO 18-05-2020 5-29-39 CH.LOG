@@ -1,0 +1,3 @@
+Change Component Designator: OldDesignator=ouput NewDesignator=ouput5V
+Change Component Designator: OldDesignator=ouput NewDesignator=ouput-5V
+Added Member To Class: ClassName=Sheet1 Member=Component ouput5V 3.3V
