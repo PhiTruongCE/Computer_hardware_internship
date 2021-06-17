@@ -1,0 +1,13 @@
+Added Pin To Net: NetName=NetNodeMCU-?_3V3 Pin=NodeMCU-?-3V3
+Added Pin To Net: NetName=NetNodeMCU-?_3V3 Pin=NodeMCU-?-3V3
+Added Pin To Net: NetName=NetNodeMCU-?_3V3 Pin=NodeMCU-?-3V3
+Added Pin To Net: NetName=NetNodeMCU-?_GND Pin=NodeMCU-?-GND
+Added Pin To Net: NetName=NetNodeMCU-?_GND Pin=NodeMCU-?-GND
+Added Pin To Net: NetName=NetNodeMCU-?_GND Pin=NodeMCU-?-GND
+Added Pin To Net: NetName=NetNodeMCU-?_GND Pin=NodeMCU-?-GND
+Added Pin To Net: NetName=NetNodeMCU-?_D3 Pin=NodeMCU-?-D3
+Added Pin To Net: NetName=NetNodeMCU-?_D3 Pin=RC522-7
+Added Net: Name=NetNodeMCU-?_D3
+Added Pin To Net: NetName=NetNodeMCU-?_D4 Pin=NodeMCU-?-D4
+Added Pin To Net: NetName=NetNodeMCU-?_D4 Pin=RC522-1
+Added Net: Name=NetNodeMCU-?_D4

@@ -1,0 +1,14 @@
+Change Component Designator: OldDesignator=HD? NewDesignator=RC522
+Change Component Designator: OldDesignator=P? NewDesignator=I2C
+Added Pin To Net: NetName=NetNodeMCU-?_3V3 Pin=NodeMCU-?-3V3
+Added Pin To Net: NetName=NetNodeMCU-?_3V3 Pin=NodeMCU-?-3V3
+Added Pin To Net: NetName=NetNodeMCU-?_3V3 Pin=NodeMCU-?-3V3
+Added Pin To Net: NetName=NetNodeMCU-?_GND Pin=NodeMCU-?-GND
+Added Pin To Net: NetName=NetNodeMCU-?_GND Pin=NodeMCU-?-GND
+Added Pin To Net: NetName=NetNodeMCU-?_GND Pin=NodeMCU-?-GND
+Added Pin To Net: NetName=NetNodeMCU-?_GND Pin=NodeMCU-?-GND
+Added Pin To Net: NetName=NetNodeMCU-?_GND Pin=RC522-6
+Added Pin To Net: NetName=NetNodeMCU-?_3V3 Pin=RC522-8
+Added Member To Class: ClassName=Sheet1 Member=Component I2C
+Added Member To Class: ClassName=Sheet1 Member=Component RC522
+Added Room: Name=Sheet1

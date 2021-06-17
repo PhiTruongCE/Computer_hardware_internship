@@ -1,0 +1,5 @@
+Removed Member From Class: ClassName=Sheet1 Member=A
+Added Component: Designator=LCD(LCD20X4A)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "LCD 20x4A"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Sheet1 Member=Component LCD LCD 20x4A

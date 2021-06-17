@@ -1,0 +1,44 @@
+Removed Member From Class: ClassName=Sheet1 Member=DS
+Removed Member From Class: ClassName=Sheet1 Member=U
+Added Component: Designator=A(OLIMEX_SHIELD-LCD-16X2)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Olimex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "SHIELD-LCD-16X2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/SHIELD-LCD-16X2/Olimex%20LTD/view-part/383173/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=HD?(HED8V)
+Add component. Clean all parameters for all variants
+Added Component: Designator=NodeMCU-?(NodeMCU V1.0 ESP-12E)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=NetHD?_1 Pin=HD?-1
+Added Pin To Net: NetName=NetHD?_1 Pin=NodeMCU-?-D0
+Added Net: Name=NetHD?_1
+Added Pin To Net: NetName=NetHD?_2 Pin=HD?-2
+Added Pin To Net: NetName=NetHD?_2 Pin=NodeMCU-?-D5
+Added Net: Name=NetHD?_2
+Added Pin To Net: NetName=NetHD?_3 Pin=HD?-3
+Added Pin To Net: NetName=NetHD?_3 Pin=NodeMCU-?-D7
+Added Net: Name=NetHD?_3
+Added Pin To Net: NetName=NetHD?_4 Pin=HD?-4
+Added Pin To Net: NetName=NetHD?_4 Pin=NodeMCU-?-D6
+Added Net: Name=NetHD?_4
+Added Pin To Net: NetName=NetHD?_6 Pin=HD?-6
+Added Pin To Net: NetName=NetHD?_6 Pin=NodeMCU-?-GND
+Added Pin To Net: NetName=NetHD?_6 Pin=NodeMCU-?-GND
+Added Pin To Net: NetName=NetHD?_6 Pin=NodeMCU-?-GND
+Added Pin To Net: NetName=NetHD?_6 Pin=NodeMCU-?-GND
+Added Net: Name=NetHD?_6
+Added Pin To Net: NetName=NetHD?_7 Pin=HD?-7
+Added Pin To Net: NetName=NetHD?_7 Pin=NodeMCU-?-RST
+Added Net: Name=NetHD?_7
+Added Pin To Net: NetName=NetHD?_8 Pin=HD?-8
+Added Pin To Net: NetName=NetHD?_8 Pin=NodeMCU-?-3V3
+Added Pin To Net: NetName=NetHD?_8 Pin=NodeMCU-?-3V3
+Added Pin To Net: NetName=NetHD?_8 Pin=NodeMCU-?-3V3
+Added Net: Name=NetHD?_8
+Added Member To Class: ClassName=Sheet1 Member=Component A SHIELD-LCD-16X2
+Added Member To Class: ClassName=Sheet1 Member=Component HD? Header 8
+Added Member To Class: ClassName=Sheet1 Member=Component NodeMCU-? NodeMCU V1.0 ESP-12E
